@@ -1,6 +1,6 @@
 # repc2002.github.io
 
-<img src="https://www.tijuana.tecnm.mx/wp-content/uploads/2020/07/logos-gris-TecNM-ITT-768x262.jpg">
+<img src="ITT.jpg">
 
 # KeyPad
 
