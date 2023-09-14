@@ -27,6 +27,8 @@
 - Selección de Menús
 - Entrada de Datos en Sistemas Embebidos
 
+### Codigo de ejemplo:
+
 ```arduino
 byte pinesFilas[] = {9, 8, 7, 6};
 byte pinesColumnas[] = {5, 4, 3, 2};
