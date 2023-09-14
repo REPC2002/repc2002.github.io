@@ -1,4 +1,6 @@
 # repc2002.github.io
+KeyPad
+<img src="https://www.example.com/images/dinosaur.jpg](https://www.electronicwings.com/storage/PlatformSection/TopicContent/125/description/4x4%20Keypad.png" />
 Características:
 - 16 botones con organización matricial (4 filas x 4 columnas)
 - Teclado tipo membrana
