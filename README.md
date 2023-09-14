@@ -1,6 +1,11 @@
 # repc2002.github.io
-KeyPad
-<img src="https://www.example.com/images/dinosaur.jpg](https://www.electronicwings.com/storage/PlatformSection/TopicContent/125/description/4x4%20Keypad.png" />
+
+<img src="https://www.tijuana.tecnm.mx/wp-content/uploads/2020/07/logos-gris-TecNM-ITT-768x262.jpg">
+
+# KeyPad
+
+<img src="https://www.electronicwings.com/storage/PlatformSection/TopicContent/125/description/4x4%20Keypad.png">
+
 Características:
 - 16 botones con organización matricial (4 filas x 4 columnas)
 - Teclado tipo membrana
