@@ -1,7 +1,7 @@
 # repc2002.github.io
 
 ![ITT Logo](ITT.jpg)
-![Actividad-1](https://github.com/REPC2002/repc2002.github.io/edit/main/README.md)
+![Actividad-1](https://github.com/REPC2002/repc2002.github.io/blob/main/README.md)
 
 ## KeyPad
 
