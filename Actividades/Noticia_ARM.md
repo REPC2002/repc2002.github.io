@@ -5,7 +5,7 @@
 # Fecha:             
 **Miercoles 15 de Noviembre del 2023**
 
-# ![Logo Institucional](https://www.tijuana.tecnm.mx/wp-content/uploads/2022/03/TecNM-ITT-sgc-2018-color-scaled-e1646127126124-1536x469.jpg) 
+# ![Logo Institucional](https://www.tijuana.tecnm.mx/wp-content/uploads/2022/03/TecNM-ITT-sgc-2018-color-scaled-e1646127126124-768x234.jpg) 
 # Institución:       Tecnológico Nacional de México (TECNM) - Campus ITT
 # Curso:             Sistemas Programables 
 #
