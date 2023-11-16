@@ -19,4 +19,4 @@
 - [Actividad-2-2](/Actividades/Unidad_2/Act_2-2.md)
 
 # Unidad 3
-- [Noticia de ARM](/Actividades/Noticia_ARM.md)
+- [Noticia de ARM](Actividades/Noticia_ARM.md)
