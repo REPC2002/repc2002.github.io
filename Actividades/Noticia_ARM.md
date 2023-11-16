@@ -16,13 +16,25 @@ han ido desarrollando, se muestra la nueva tecnologia en los CPU ARM. Estos proc
 todos los dispositivos modernos, ya que es un procesador mas pequeño y permite que la temperatura del dispositivos se mantenga en una temperatura correcta 
 para su funcionamiento
 #
-# Historial de Revisiones:
-- (08/11/2023) Palacios Camacho Ruben Eduardo - Creado
-- (14/11/2023) Palacios Camacho Ruben Eduardo - Se agrego la Actividad 3.2.1
-- (09/11/2023) Palacios Camacho Ruben Eduardo - Se agrega la actividad 3.1.1 al repositorio
+# Puntos Claves:
+- Es un dispositivo compacto que permuite el excelente funcionamimento de los equipos
+- Permite que se obtenga una arquitectura de x86 bits
+- Se basa en una microarquitectura
+- Nvidia intento comprar los derechos de produccion
+- Nvidia se acaba de unir con ARM para su nuevo Grace
+- ARM domina en los procesadores de telefonos inteligentes.
+- Su mayor competencia en procesadores es Intel
+- Se aposto el futuro de Mac con ARM
+- Amazon Service Web es uno de los mayores productores de chips de ARM
 #
-# Enlace a GitHub Repository ó GIST:
-[Repositorio de Pistaches Anacletos](https://github.com/tectijuana/sp5-iot-ai-los-pistaches-anacletos)
+# Ejemplos en los que se aplica los CPU ARM:
+- Apple lo aplica en su dispositivos moviles y ordenadores fijos
+- Samsung lo utiliza de la misma manera que apple
+- Se utiliza tambien para los dispositivos domesticos
+- Nvidia su unio con ellos para crear un sistema para uso de inteligencia artificial
+- Qualcomm utiliza procesadores ARM
+- ASW produce chips ARM
+
 
 [3.1.1 En EQUIPO: GPS + Oled Temático + Wokwi.com](Bloque_3/3-1-1.md)
 
